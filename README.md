@@ -1,6 +1,7 @@
-### Hi there 👋
+### 안녕하세요 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choijongha&layout=compact&theme=tokyonight)
 
+<div> 좋아하는 것이 많은 프로그래머 </div>
 <!--
 **choijongha/choijongha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
