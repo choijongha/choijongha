@@ -3,7 +3,7 @@
 
 <div> 좋아하는 것이 많은 프로그래머 </div>
 <br>
-<a href="https://www.notion.so/yeoreumsujib/JJONG-8ad607e6fcdd4a7f8779e43bb3d1cb63" target="_blank"><img src="https://img.shields.io/badge/자세히 알아보기-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.notion.so/yeoreumsujib/JJONG-8ad607e6fcdd4a7f8779e43bb3d1cb63"><img src="https://img.shields.io/badge/자세히 알아보기-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <!--
 **choijongha/choijongha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
